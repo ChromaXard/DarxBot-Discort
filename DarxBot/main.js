@@ -39,4 +39,4 @@ bot.on('message', message => {
     message.channel.send(HelpEmbed)
 });
 
-bot.login("NzQ0MzU2MTg5MjU2Njc5NTA1.XziBuA.qDoHeBQ5l6A905qAvK7nDWwhle4")
+bot.login("")
